@@ -1,0 +1,2 @@
+# MagazynProduktow
+VBA Registry UserForm
